@@ -216,6 +216,7 @@ Examples of LLMs
 
 
 Conclusion
+
   Generative AI represents a fundamental shift from systems that only analyze data to systems that create it, with GANs, VAEs, and Transformers offering different   mechanisms for doing so. The Transformer architecture, built around self-attention, has become the dominant backbone for this generation of models because it      processes text in parallel and captures long-range context far better than earlier approaches — which is precisely why it underlies virtually every modern Large   Language Model. These architectures now power real applications across text, image, video, healthcare, and finance, but their capability comes with trade-offs:    heavy compute and energy costs, sensitivity to training-data bias, and a continued tendency to hallucinate. Scaling parameters, data, and compute together has     been the primary driver of progress, at times producing abilities that emerge suddenly rather than gradually, though returns diminish and costs rise as models     grow larger. Building an LLM end-to-end — through data collection, tokenization, pretraining, fine-tuning, and alignment — makes all of this concrete, and doing   it reliably and safely remains one of the central technical and ethical challenges in the field today.
 
 
